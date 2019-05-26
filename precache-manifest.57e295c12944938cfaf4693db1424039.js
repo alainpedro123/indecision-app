@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d310b08082374dd4cdd67d56aaa8a28d",
+    "revision": "245e1f1ca05f52f364cbb6720ffd72af",
     "url": "/indecision-app/index.html"
   },
   {
-    "revision": "b305bf219c1fc9a0bc17",
-    "url": "/indecision-app/static/css/main.b3b2c6aa.chunk.css"
+    "revision": "a48dbbec0967758bc161",
+    "url": "/indecision-app/static/css/main.55496a31.chunk.css"
   },
   {
     "revision": "0cad985d3754358d12a3",
     "url": "/indecision-app/static/js/2.3ad5b862.chunk.js"
   },
   {
-    "revision": "b305bf219c1fc9a0bc17",
-    "url": "/indecision-app/static/js/main.7ee7d56e.chunk.js"
+    "revision": "a48dbbec0967758bc161",
+    "url": "/indecision-app/static/js/main.2b246b7f.chunk.js"
   },
   {
     "revision": "22abca185530f4668210",
