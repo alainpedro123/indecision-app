@@ -1,14 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import Indecision from './Indecision'
-import * as serviceWorker from './serviceWorker';
+import ToDoList from './pages/ToDoList';
 import './styles/styles.scss';
 import './styles/normalize.css';
 
-
-ReactDOM.render(<Indecision/>, document.getElementById('root'));
-
-// If you want your app to work offline and load faster, you can change
-// unregister() to register() below. Note this comes with some pitfalls.
-// Learn more about service workers: https://bit.ly/CRA-PWA
-serviceWorker.unregister();
+ReactDOM.render(<ToDoList />, document.getElementById('root'));
